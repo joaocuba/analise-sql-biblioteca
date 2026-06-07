@@ -79,7 +79,7 @@ A pasta `docs` contém a imagem do modelo do banco de dados gerada no pgAdmin.
 
 A estrutura relacional do banco foi representada por meio de um diagrama gerado no pgAdmin, permitindo visualizar as tabelas, chaves primárias, chaves estrangeiras e os relacionamentos existentes entre as entidades.
 
-![Modelo do banco de dados](docs/modelo_banco.png)
+![Modelo do banco de dados](docs/modelo_lógico.png)
 
 ## Principais tabelas do banco
 
